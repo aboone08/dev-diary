@@ -7,4 +7,4 @@ Review:I cannot say that I have any big looming questions at this time.
     cd = change directory
     ls = listing sheet
     mkdir = make directory
-    touch = touch  
+    touch = "touch" allowing you to make a file that you can "touch" and move around.  
